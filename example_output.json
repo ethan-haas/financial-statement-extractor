@@ -1,0 +1,147 @@
+{
+  "entity": "Allen Township, Darke County",
+  "fiscal_year_end": "December 31, 2024",
+  "basis": "Regulatory Cash Basis",
+  "statement": "Combined Statement of Receipts, Disbursements and Changes in Fund Balances",
+  "columns": [
+    "General",
+    "Special Revenue",
+    "Combined Total"
+  ],
+  "line_items": [
+    {
+      "section": "Cash Receipts",
+      "label": "Property and Other Local Taxes",
+      "values": {
+        "General": 26216,
+        "Special Revenue": 115423,
+        "Combined Total": 141639
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Receipts",
+      "label": "Intergovernmental",
+      "values": {
+        "General": 19122,
+        "Special Revenue": 172726,
+        "Combined Total": 191848
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Receipts",
+      "label": "Earnings on Investments",
+      "values": {
+        "General": 100,
+        "Special Revenue": 175,
+        "Combined Total": 275
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Receipts",
+      "label": "Miscellaneous",
+      "values": {
+        "General": 180,
+        "Special Revenue": 0,
+        "Combined Total": 180
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Receipts",
+      "label": "Total Cash Receipts",
+      "values": {
+        "General": 45618,
+        "Special Revenue": 288324,
+        "Combined Total": 333942
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Disbursements",
+      "label": "General Government",
+      "values": {
+        "General": 26733,
+        "Special Revenue": 42423,
+        "Combined Total": 69156
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Disbursements",
+      "label": "Public Safety",
+      "values": {
+        "General": 0,
+        "Special Revenue": 56082,
+        "Combined Total": 56082
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Disbursements",
+      "label": "Public Works",
+      "values": {
+        "General": 0,
+        "Special Revenue": 150717,
+        "Combined Total": 150717
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Disbursements",
+      "label": "Health",
+      "values": {
+        "General": 3464,
+        "Special Revenue": 0,
+        "Combined Total": 3464
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Disbursements",
+      "label": "Total Cash Disbursements",
+      "values": {
+        "General": 30197,
+        "Special Revenue": 249222,
+        "Combined Total": 279419
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Disbursements",
+      "label": "Net Change in Fund Cash Balances",
+      "values": {
+        "General": 15421,
+        "Special Revenue": 39102,
+        "Combined Total": 54523
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Disbursements",
+      "label": "Fund Cash Balances, January 1",
+      "values": {
+        "General": 121433,
+        "Special Revenue": 347658,
+        "Combined Total": 469091
+      },
+      "source_page": 10
+    },
+    {
+      "section": "Cash Disbursements",
+      "label": "Fund Cash Balances, December 31",
+      "values": {
+        "General": 136854,
+        "Special Revenue": 386760,
+        "Combined Total": 523614
+      },
+      "source_page": 10
+    }
+  ],
+  "_source": {
+    "file": "sample_report.pdf",
+    "page": 10
+  }
+}
